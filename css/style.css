@@ -1,0 +1,18 @@
+/* This is a CSS comment */
+body { Background-color : white;
+	padding: 10px 10px;
+	font-family: Verdana;
+	max-width: 1000px;
+	margin: 0 auto; /* The 0 refers to the top and bottom margins and the "auto" automatically */
+	font-size: 1.4em;
+  font-style : oblique;
+}   
+
+html {background-color : black;
+
+  }
+
+
+h1{ background-color : lightgrey; color: blue}
+
+h2{ background-color: black; color: white }
